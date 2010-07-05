@@ -2,16 +2,13 @@ import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 
-import sun.awt.windows.ThemeReader;
-
-
 public class waitAndClick {
 
 	/**
 	 * Waits 10 seconds and clicks first mouse button in 0,0
 	 * 
 	 * @author Hallvard Nygard, hn@jaermuseet.no
-	 * @see 
+	 * @see http://github.com/hnJaermuseet/waitAndClick
 	 * @param args
 	 * @throws AWTException 
 	 */
